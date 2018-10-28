@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/bin/Debug/netcoreapp2.1/ConditionalAccess.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/bin/Debug/netcoreapp2.1/ConditionalAccess.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/bin/Debug/netcoreapp2.1/ConditionalAccess.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/bin/Debug/netcoreapp2.1/ConditionalAccess.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/bin/Debug/netcoreapp2.1/ConditionalAccess.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/obj/Debug/netcoreapp2.1/ConditionalAccess.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/obj/Debug/netcoreapp2.1/ConditionalAccess.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/obj/Debug/netcoreapp2.1/ConditionalAccess.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/obj/Debug/netcoreapp2.1/ConditionalAccess.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/ConditionalAccess/obj/Debug/netcoreapp2.1/ConditionalAccess.pdb

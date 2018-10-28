@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/bin/Debug/netcoreapp2.1/AddExtensions.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/bin/Debug/netcoreapp2.1/AddExtensions.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/bin/Debug/netcoreapp2.1/AddExtensions.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/bin/Debug/netcoreapp2.1/AddExtensions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/bin/Debug/netcoreapp2.1/AddExtensions.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/obj/Debug/netcoreapp2.1/AddExtensions.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/obj/Debug/netcoreapp2.1/AddExtensions.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/obj/Debug/netcoreapp2.1/AddExtensions.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/obj/Debug/netcoreapp2.1/AddExtensions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/Extensions/obj/Debug/netcoreapp2.1/AddExtensions.pdb

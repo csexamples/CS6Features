@@ -1,0 +1,17 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6FeatureTests.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6FeatureTests.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6FeatureTests.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6FeatureTests.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6FeatureTests.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6Features.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/bin/Debug/netcoreapp2.1/CS6Features.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.csproj.CopyComplete
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/CS6FeatureTests/obj/Debug/netcoreapp2.1/CS6FeatureTests.pdb

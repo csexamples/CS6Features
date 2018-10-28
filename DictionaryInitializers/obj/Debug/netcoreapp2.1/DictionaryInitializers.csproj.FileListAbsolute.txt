@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/bin/Debug/netcoreapp2.1/DictionaryInitializers.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/bin/Debug/netcoreapp2.1/DictionaryInitializers.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/bin/Debug/netcoreapp2.1/DictionaryInitializers.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/bin/Debug/netcoreapp2.1/DictionaryInitializers.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/bin/Debug/netcoreapp2.1/DictionaryInitializers.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/obj/Debug/netcoreapp2.1/DictionaryInitializers.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/obj/Debug/netcoreapp2.1/DictionaryInitializers.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/obj/Debug/netcoreapp2.1/DictionaryInitializers.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/obj/Debug/netcoreapp2.1/DictionaryInitializers.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DictionaryInitializers/obj/Debug/netcoreapp2.1/DictionaryInitializers.pdb

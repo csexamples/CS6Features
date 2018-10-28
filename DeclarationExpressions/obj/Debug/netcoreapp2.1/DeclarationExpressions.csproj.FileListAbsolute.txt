@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/bin/Debug/netcoreapp2.1/DeclarationExpressions.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/bin/Debug/netcoreapp2.1/DeclarationExpressions.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/bin/Debug/netcoreapp2.1/DeclarationExpressions.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/bin/Debug/netcoreapp2.1/DeclarationExpressions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/bin/Debug/netcoreapp2.1/DeclarationExpressions.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/obj/Debug/netcoreapp2.1/DeclarationExpressions.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/obj/Debug/netcoreapp2.1/DeclarationExpressions.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/obj/Debug/netcoreapp2.1/DeclarationExpressions.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/obj/Debug/netcoreapp2.1/DeclarationExpressions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6Features/DeclarationExpressions/obj/Debug/netcoreapp2.1/DeclarationExpressions.pdb
